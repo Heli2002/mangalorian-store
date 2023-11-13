@@ -1,0 +1,1 @@
+# mangalorian-store
